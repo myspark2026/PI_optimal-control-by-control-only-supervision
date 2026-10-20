@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.runtime/
+.venv/
+outputs/
+checkpoints/
+.ipynb_checkpoints/
+*.zip
